@@ -6,7 +6,7 @@ If needed, the value can be read from the verified contract source code. Savings
 
 ### Example
 
-```
+```solidity
 File: smart-contracts/CollateralAdapter.sol
 
 22:     uint256 public constant VAULT_REVISION = 0x1;
@@ -14,7 +14,7 @@ File: smart-contracts/CollateralAdapter.sol
 
 ### Recommendation
 
-```
+```solidity
 File: smart-contracts/CollateralAdapter.sol
 
 22:     uint256 private constant VAULT_REVISION = 0x1;
