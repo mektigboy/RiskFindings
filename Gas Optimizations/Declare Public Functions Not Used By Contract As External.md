@@ -11,3 +11,9 @@ File: smart-contracts/CollateralAdapter.sol   #1
 
 35:     function initialize(ILendingPoolAddressesProvider _provider) public initializer {...}
 ```
+
+```solidity
+File: smart-contracts/CollateralAdapter.sol   #1
+
+35:     function initialize(ILendingPoolAddressesProvider _provider) external initializer {...}
+```
