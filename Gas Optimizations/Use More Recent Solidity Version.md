@@ -1,6 +1,6 @@
 # Use More Recent Solidity Version
 
-Use a more recent version of solidity.
+Use a more recent version of Solidity.
 
 - Use a Solidity version of at least 0.8.0 to get overflow protection without `SafeMath`.
 - Use a Solidity version of at least 0.8.2 to get compiler automatic inlining.
